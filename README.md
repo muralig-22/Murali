@@ -1,24 +1,152 @@
-<h1 align="center">Hi 👋, I'm MURALI G</h1>
-<h3 align="center">Aspiring Biomedical Engineer specializing in Embedded Systems and Medical Imaging</h3>
+# Hi, I'm Murali G 👋
 
-- 🔭 I’m currently working on **IoT and Embedded Systems Projects**
+### Embedded Systems Engineer | Biomedical Firmware Developer | IoT Enthusiast
 
-- 🌱 I’m currently learning **Advanced Machine Learning Algorithms**
+I am a Biomedical Engineering undergraduate passionate about designing and developing hardware-software integrated systems, with a strong focus on **Embedded Firmware Engineering, Biomedical Instrumentation, Real-Time Systems, and Industrial IoT**.
 
-- 👯 I’m looking to collaborate on **Machine Learning in Medical Imaging**
+I enjoy working close to the hardware — developing firmware, interfacing sensors, implementing communication protocols, processing real-time signals, and building complete embedded solutions from prototype to application.
 
-- 🤝 I’m looking for help with **Medical Imaging Techniques**
+My work spans STM32 and ESP32 platforms, biomedical signal acquisition, digital signal processing, wireless communication, cloud-connected devices, and embedded system architecture.
 
-- 💬 Ask me about **Embedded Systems, Medical Device Design, AI/ML in Healthcare**
+---
 
-- 📫 How to reach me **muraliganesan22@gmail.com**
+## 🏆 Achievements
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/murali-g-g22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/murali-g-g22" height="30" width="40" /></a>
-</p>
+- 🥇 **Winner – MSME Idea Hackathon 5.0 (2025)**, organised by the Government of India.
+- 💰 Awarded **₹6 Lakhs** for an Industrial Predictive Maintenance and Machine Health Monitoring Platform.
+- 🏅 **Finalist – BITHack 23 (Hardware Edition)** for an ESP32-CAM-based Home Automation System.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muralig-22&show_icons=true&locale=en&layout=compact" alt="muralig-22" /></p>
+## 🛠️ Technical Skills
+
+### Embedded Systems & Microcontrollers
+- STM32 (STM32F4 Series)
+- ESP32 / ESP32-CAM / ESP32-S3 / ESP32-C3
+- Arduino Due
+- ARM Cortex-M Architecture
+- Embedded C / C++
+- Peripheral Configuration and Firmware Development
+
+### Communication Protocols
+- UART / USART
+- I2C
+- SPI
+- Bluetooth / BLE
+- Wi-Fi
+- HTTP
+- Firebase Realtime Database
+
+### Biomedical Signal Processing
+- ECG Signal Acquisition
+- PPG Signal Monitoring
+- ADS1299 Integration
+- Digital IIR Filtering
+- Pan-Tompkins-Style QRS Detection
+- Heart Rate Estimation
+- Sensor Fusion
+- Physiological Signal Visualization
+
+### Hardware & Electronics
+- Sensor Interfacing
+- ADC and Timer Configuration
+- GPIO and Interrupt Handling
+- I2C Multiplexing
+- PCB Design
+- Circuit Debugging
+- Transistor Switching
+- Power Management
+
+### Software & Tools
+- C / C++
+- Python
+- HTML / CSS / JavaScript
+- Git / GitHub
+- STM32CubeIDE
+- Arduino IDE
+- VS Code
+- Firebase
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Industrial Predictive Maintenance Platform
+**STM32 | ESP32 | Industrial IoT | Cloud | Web Dashboard**
+
+Developed a real-time multi-sensor industrial condition-monitoring platform integrating vibration, temperature, pressure, and current acquisition with cloud connectivity and centralized visualization.
+
+🏆 Winner – MSME Idea Hackathon 5.0 (2025).
+
+### 2. Multimodal Driver Health Monitoring System
+**Arduino Due | ADS1299 | MAX30105 | IMU | FSR | BLE**
+
+Developed a multimodal driver-monitoring prototype integrating ECG, PPG, inertial motion sensing, and a 12-channel steering-wheel grip-pressure array with real-time waveform and heatmap visualization.
+
+### 3. Real-Time ECG Signal Processing
+**STM32F401RE | Embedded C | DSP | UART**
+
+Implemented a 500 Hz ECG acquisition pipeline with fourth-order IIR filtering, Pan-Tompkins-style QRS detection, adaptive thresholding, heart-rate estimation, and signal-quality assessment.
+
+### 4. ESP32 Multisensor Fetal Movement Monitor
+**ESP32 | MPU6050 | TCA9548A | Bluetooth**
+
+Developed a three-sensor motion-monitoring prototype using I2C multiplexing, acceleration magnitude calculation, threshold-based classification, and buzzer alerts.
+
+### 5. ESP32-CAM Cloud-Connected Home Automation
+**ESP32-CAM | Firebase | PCF8575 | I2C**
+
+Built a six-channel remote relay-control system with live camera streaming, Firebase synchronization, and keypad-based local password access.
+
+🏅 Finalist – BITHack 23 Hardware Edition.
+
+### 6. STM32 Embedded Sensor Data Compression
+**STM32F446RE | Embedded C | Delta Encoding | USART2**
+
+Implemented delta-based sensor data compression for simulated 16-bit and 24-bit signals, with 8-bit encoded representations and ten-sample UART packet transmission.
+
+### 7. ESP32-C3 BLE Smart Ultrasonic Diffuser
+**ESP32-C3 | BLE | IP5306 | Power Electronics**
+
+Built a five-channel BLE-controlled ultrasonic mist-generation device, integrating transistor switching, battery power management, and custom perfboard hardware.
+
+### 8. ESP32-S3 Edge Voice Assistant
+**ESP32-S3-EYE | I2S | INMP441 | MAX98357A | Python | Whisper**
+
+Developed a voice-interaction pipeline featuring wake-word activation, push-to-talk, digital audio acquisition, and server-side Whisper speech recognition.
+
+---
+
+## 🎯 Areas of Interest
+
+- Embedded Firmware Development
+- ARM Cortex-M Microcontrollers
+- Real-Time Operating Systems (RTOS)
+- Biomedical Embedded Systems
+- Digital Signal Processing
+- Industrial IoT
+- Sensor Fusion and Data Acquisition
+- Communication Protocols
+- Edge AI and Embedded Audio
+- Hardware-Software Co-Design
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced ARM Cortex-M architecture
+- RTOS concepts and task scheduling
+- DMA and interrupt-driven firmware
+- Embedded Linux fundamentals
+- Advanced C programming and memory management
+- Low-power embedded system design
+- Embedded communication and networking
+
+---
+
+## 🤝 Let's Connect
+
+I am interested in connecting with engineers, developers, researchers, and organizations working in embedded systems, biomedical engineering, firmware development, and intelligent hardware solutions.
+
+**Let's build something meaningful at the intersection of hardware, firmware, and healthcare technology!**
+
