@@ -1,5 +1,5 @@
 # Hi, I'm Murali G 👋
-
+https://muralig-22.github.io/
 ### Embedded Systems Engineer | Biomedical Firmware Developer | IoT Enthusiast
 
 I am a Biomedical Engineering undergraduate passionate about designing and developing hardware-software integrated systems, with a strong focus on **Embedded Firmware Engineering, Biomedical Instrumentation, Real-Time Systems, and Industrial IoT**.
